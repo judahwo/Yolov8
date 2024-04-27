@@ -2,7 +2,3 @@
 crack-2/
 myenv/
 runs/
-runs/detect/train/weights/best.pt
-runs/detect/train/weights/last.pt
-runs/detect/train2/weights/best.pt
-runs/detect/train2/weights/last.pt
